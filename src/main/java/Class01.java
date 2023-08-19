@@ -15,7 +15,12 @@ public class Class01 {
          int z = 5;
         System.out.println(x + y+ z);
 
+          //Versiyon 3 Kodlari
+        System.out.println("Versiyon 3 Kodlari");
 
+
+          //Versiyon 4
+        System.out.println("Versiyon 4");
 
     }
 }
