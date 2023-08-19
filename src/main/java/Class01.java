@@ -11,6 +11,9 @@ public class Class01 {
 
 
 
+        // Versiyon 2
+         int z = 5;
+        System.out.println(x + y+ z);
 
 
 
